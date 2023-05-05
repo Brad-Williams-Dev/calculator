@@ -9,4 +9,4 @@ This project is a recreation of the iOS Calculator app, built using React Native
 
 ## Screenshots
 
-![iPhone designed Calculator App](https://github.com/Brad-Williams-Dev/calculator/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-05-05%20at%2014.13.05.png?raw=true)
+![iPhone designed Calculator App](https://github.com/Brad-Williams-Dev/calculator/blob/main/Screenshot%202023-05-05%20at%202.17.59%20PM.png?raw=true)
